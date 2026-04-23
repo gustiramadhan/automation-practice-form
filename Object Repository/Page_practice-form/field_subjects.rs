@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_subjects</name>
+   <tag></tag>
+   <elementGuidId>f3c4c37a-cd48-492a-b62d-fada9235b111</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.subjects-auto-complete__input-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' subjects-auto-complete__input-container ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>904f8a40-0852-4b32-bb34-bd265b7ab84b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subjects-auto-complete__input-container css-19bb58m</value>
+      <webElementGuid>bcbbeea0-7a42-4f75-a2ac-a2a78be167e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-8b41e30f2aded78449aed8e26c5f34e6</value>
+      <webElementGuid>1ae52ae4-e3e3-42ed-a8e0-6f253f0b0ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' subjects-auto-complete__input-container ')]</value>
+      <webElementGuid>ab307ee4-2380-4d7e-a258-859bd5ae9f8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' subjects-auto-complete__input-container ')]</value>
+      <webElementGuid>95ec27a0-015d-4a66-abcb-dc59d28ec0e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

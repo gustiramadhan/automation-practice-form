@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_dateOfBirthInput</name>
+   <tag></tag>
+   <elementGuidId>3c678816-5f6f-4a97-b838-f6a042bf7691</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#dateOfBirthInput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'dateOfBirthInput']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e05c3e59-daa4-48d2-bff5-ce5ea130061a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dateOfBirthInput</value>
+      <webElementGuid>8b7a2137-a54d-4a88-9a61-d0231a64e690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>81dce328-4739-4c52-8715-bfc5e8cc256d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c60d230f-f20b-40d0-bc61-54c44e2a49d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>23 Apr 2026</value>
+      <webElementGuid>699ba56c-0d12-41ce-b4c5-883e4a98f4d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-547f97fdc5d29f59dd1b0888d88d4f5e</value>
+      <webElementGuid>a46b9dfa-fa6c-4a6a-a78c-dab847080f51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'dateOfBirthInput']</value>
+      <webElementGuid>97363a42-70c4-484a-8c2f-f34972c34bd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'dateOfBirthInput']</value>
+      <webElementGuid>a6186c7e-0cbf-4f45-941d-1bfa8f7e213c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'dateOfBirthInput' and @type = 'text']</value>
+      <webElementGuid>98db667a-3511-4979-b4d0-bf070b974a7b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

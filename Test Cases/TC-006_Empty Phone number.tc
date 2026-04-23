@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-006_Empty Phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73fecd8b-0cee-45ca-9b3b-3f6f8288426b</testCaseGuid>
+</TestCaseEntity>

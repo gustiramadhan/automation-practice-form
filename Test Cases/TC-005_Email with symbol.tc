@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-005_Email with symbol</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fce3775b-0bba-46b9-aeb4-1d2502d89950</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-007_Phone number less than 10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8814d4eb-4bd8-47fd-bcfc-7653f9a56ab4</testCaseGuid>
+</TestCaseEntity>
